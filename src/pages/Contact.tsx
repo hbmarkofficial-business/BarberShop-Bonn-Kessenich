@@ -138,10 +138,10 @@ const Contact = () => {
                       Oder rufen Sie uns direkt an:
                     </p>
                     <a 
-                      href="tel:015118311067" 
+                      href="tel:01741350839" 
                       className="block text-center text-primary font-semibold mt-2 hover:underline"
                     >
-                      015118311067
+                      01741350839
                     </a>
                   </div>
 
@@ -192,8 +192,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
-                          Färberstraße 54<br />
-                          90402 Nürnberg
+                          Hausdorffstraße 221<br />
+                          53129 Bonn
                         </p>
                       </div>
                     </div>
@@ -205,10 +205,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:015118311067" 
+                          href="tel:01741350839" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          015118311067
+                          01741350839
                         </a>
                       </div>
                     </div>
@@ -235,8 +235,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
-                          <li>Mo - Fr: 10:00 - 20:00</li>
-                          <li>Samstag: 10:00 - 19:00</li>
+                          <li>Mo - Fr: 9:00 - 19:30</li>
+                          <li>Samstag: 9:00 - 18:30</li>
                           <li>Sonntag: Geschlossen</li>
                         </ul>
                       </div>
@@ -245,7 +245,7 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border mt-8">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.935844488252!2d11.069183276892435!3d49.44792955903806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57a835434d4d%3A0xfba938ebd99d6f67!2sTop%20Salon%20-%20N%C3%BCrnberg!5e0!3m2!1sde!2sde!4v1769779552025!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40431.20524564731!2d7.100908769531218!3d50.70230630952022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bee3deda9b9ac1%3A0xe4c9be26ab5f9210!2sBarberShop%20Bonn%20Kessenich!5e0!3m2!1sde!2sde!4v1771787892552!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
